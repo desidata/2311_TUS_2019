@@ -11,15 +11,25 @@ who are aged 6 years and above. The information pertains to a period of 24 hours
 4:00 A.M. on the day before the date of interview to 4:00 A.M. on the day of interview. Different
 activities are then clubbed into classification that is provided by the International Classification
 of Activities for Time Use Survey (ICATUS) 2016. This classification of activity (a 3 digit code)
+
 can be grouped into 9 major activity codes:
+
 $\bullet$ Employment and Related Activities.
+
 $\bullet$ Production of Goods for Own (final) Use
+
 $\bullet$ Unpaid Domestic Services for Household Members
+
 $\bullet$ Unpaid Care-giving Services for Household Members
+
 $\bullet$ Unpaid Volunteer, trainee, and other unpaid works.
+
 $\bullet$ Learning
+
 $\bullet$ Socialising, Communication, and Community Participation.
+
 $\bullet$ Culture, Leisure, Mass Media Consumption.
+
 $\bullet$ Self-Care and Maintenance.
 
 In this project, we have first selected a random sample of 1000 persons using a uniform (0,1)
