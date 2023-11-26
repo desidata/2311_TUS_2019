@@ -42,3 +42,7 @@ interested in how would a randomly selected 1000 persons day look like when brok
 activity codes, therefore the data represented here is unweighted. It is a sample case study of
 India, not a representation of population estimates.
 Welcome to #DesiTime.
+
+
+
+![]('https://github.com/desidata/2311_TUS_2019/blob/main/movingbubbles1.html')
